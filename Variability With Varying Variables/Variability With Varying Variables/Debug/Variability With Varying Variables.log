@@ -1,0 +1,34 @@
+﻿Build started 6/18/2012 11:02:39 AM.
+     1>Project "J:\Variability With Varying Variables\Variability With Varying Variables\Variability With Varying Variables.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\Variability With Varying Variables.lastbuildstate".
+       InitializeBuildStatus:
+         Touching "Debug\Variability With Varying Variables.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\Variability With Varying Variables.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Variability With Varying Variables.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Variability With Varying Variables.cpp"
+         Variability With Varying Variables.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Variability With Varying Variables.exe.embed.manifest.res" "Debug\Variability With Varying Variables_manifest.rc" 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"J:\Variability With Varying Variables\Debug\Variability With Varying Variables.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Variability With Varying Variables.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"J:\Variability With Varying Variables\Debug\Variability With Varying Variables.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"J:\Variability With Varying Variables\Debug\Variability With Varying Variables.lib" /MACHINE:X86 "Debug\Variability With Varying Variables.exe.embed.manifest.res"
+         Debug\stdafx.obj
+         "Debug\Variability With Varying Variables.obj"
+       Manifest:
+         Deleting file "Debug\Variability With Varying Variables.exe.embed.manifest".
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Variability With Varying Variables.exe.embed.manifest" /manifest "Debug\Variability With Varying Variables.exe.intermediate.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Variability With Varying Variables.exe.embed.manifest.res" "Debug\Variability With Varying Variables_manifest.rc" 
+       LinkEmbedManifest:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"J:\Variability With Varying Variables\Debug\Variability With Varying Variables.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Variability With Varying Variables.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"J:\Variability With Varying Variables\Debug\Variability With Varying Variables.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"J:\Variability With Varying Variables\Debug\Variability With Varying Variables.lib" /MACHINE:X86 "Debug\Variability With Varying Variables.exe.embed.manifest.res"
+         Debug\stdafx.obj
+         "Debug\Variability With Varying Variables.obj"
+         Variability With Varying Variables.vcxproj -> J:\Variability With Varying Variables\Debug\Variability With Varying Variables.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Variability With Varying Variables.unsuccessfulbuild".
+         Touching "Debug\Variability With Varying Variables.lastbuildstate".
+     1>Done Building Project "J:\Variability With Varying Variables\Variability With Varying Variables\Variability With Varying Variables.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:01:01.84

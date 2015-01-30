@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "for the loop or not for the loop", "for the loop or not for the loop\for the loop or not for the loop.vcxproj", "{323BCEBF-A26F-4C77-97E7-0801D233441C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{323BCEBF-A26F-4C77-97E7-0801D233441C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{323BCEBF-A26F-4C77-97E7-0801D233441C}.Debug|Win32.Build.0 = Debug|Win32
+		{323BCEBF-A26F-4C77-97E7-0801D233441C}.Release|Win32.ActiveCfg = Release|Win32
+		{323BCEBF-A26F-4C77-97E7-0801D233441C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
